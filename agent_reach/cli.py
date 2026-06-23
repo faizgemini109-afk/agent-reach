@@ -9,6 +9,8 @@ Usage:
     agent-reach setup
 """
 
+import utils.transport
+import utils.session
 import sys
 import argparse
 import json
